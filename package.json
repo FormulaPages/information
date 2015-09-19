@@ -1,11 +1,16 @@
 {
   "name": "formula-information",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Peter Moresi",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "formula-isarray": "^1.0.1",
+    "formula-isemail": "^1.0.0",
+    "isarray": "0.0.1"
+  }
 }
