@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "formula-isarray": "^1.0.1",
-    "formula-isemail": "^1.0.0",
+    "formula-isemail": "^1.0.0"
   }
 }
