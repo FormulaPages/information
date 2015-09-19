@@ -1,6 +1,6 @@
 {
   "name": "formula-information",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,5 @@
   "dependencies": {
     "formula-isarray": "^1.0.1",
     "formula-isemail": "^1.0.0",
-    "isarray": "0.0.1"
   }
 }
